@@ -26,8 +26,8 @@ Eterno Estudante!
 
 <a href="https://github.com/BrenoMergh/BrenoMergh">
   <div>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=BrenoMergh&show_icons=true&theme=tokyonight"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMergh&layout=compact&theme=tokyonight"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=BrenoMergh&show_icons=true&theme=tokyonight"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMergh&layout=compact&theme=tokyonight"/>
   </div>
 </a>
 
