@@ -42,5 +42,5 @@ Eterno Estudante!
 <br>
 
 <div>
-  <img align="center" src="https://github.com/LeonardoRFragoso/LeonardoRFragoso/blob/output/github-contribution-grid-snake.svg">
+  <img align="center" src="https://github.com/BrenoMergh/BrenoMergh/blob/output/github-contribution-grid-snake.svg">
 </div
