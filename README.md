@@ -1,7 +1,7 @@
 ## Oi, eu sou o Breno Mergh 😁
 Faço Bacharelado de Sistemas de Informação na Multivix Vitória.
 
-Sou um desenvolvedor Back-end que constantemente estou aprendendo sobre a área e desenvolvendo habilidades através da prática. Também estudo programação através de plataformas que oferecem cursos gratuitos, como a Curso em Vídeo e a Rocketseat e pratico criando projetos.
+Sou um desenvolvedor Back-end que estou constantemente aprendendo sobre a área e desenvolvendo habilidades através da prática. Também estudo programação através de plataformas que oferecem cursos gratuitos, como a Curso em Vídeo e a Rocketseat e pratico criando projetos.
  
 Tecnologias: HTML5, CSS3, JavaScript, Git/Github, Node.JS, Python, C...
 
