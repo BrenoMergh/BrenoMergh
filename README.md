@@ -5,7 +5,7 @@ Engenheiro focado no desenvolvimento de soluções de **Visão Computacional** e
 ### 🛠️ Core Stack
 * **Linguagens & IA:** Python (OpenCV, YOLO, Machine Learning).
 * **Automação:** Redes e protocolos industriais (OPC UA, Modbus, Profibus).
-* **Gestão & Estratégia:** Lean Six Sigma Green Belt | MBA em Gestão de Projetos (USP/ESALQ).
+* **Gestão & Estratégia:** MBA em Gestão de Projetos (USP).
 
 ---
 
